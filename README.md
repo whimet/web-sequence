@@ -63,6 +63,7 @@ $ yarn link vue-sequence # use un-uglyfied version
 $ webpack                # build bundle.js to src/lib
 ````
 
+
 ### Install
 Install it from [Chrome Web Store - Web Sequence](https://chrome.google.com/webstore/detail/web-sequence/kcpganeflmhffnlofpdmcjklmdpbbmef). You can also search "Web Sequence" or "Sequence Diagram" to find it.
 
